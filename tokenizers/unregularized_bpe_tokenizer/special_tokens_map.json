@@ -1,0 +1,6 @@
+{
+  "bos_token": "<START>",
+  "eos_token": "<END>",
+  "mask_token": "<MASK>",
+  "pad_token": "<PAD>"
+}
