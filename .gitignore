@@ -4,3 +4,9 @@ translator/__pycache__/
 
 # Jupyter Notebook
 .ipynb_checkpoints/
+
+# Data files - I do not have permission to publicly share all the data
+data/
+
+# Trained models - These files are too big, so I will share them by a link
+trained_transformers/
